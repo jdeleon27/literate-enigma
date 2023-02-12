@@ -1,3 +1,3 @@
 # literate-enigma
-IF editing theh file
+IF editing the file
 Its a markdown file in this repository.
